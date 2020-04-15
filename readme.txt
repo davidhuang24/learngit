@@ -1,3 +1,3 @@
 learn git
 first attempt
-use branch
+Creating a new branch is quick AND simple.
